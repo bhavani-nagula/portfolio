@@ -219,4 +219,4 @@ GitHub:
 https://github.com/bhavani-nagula
 
 Portfolio:
-https://portfoliostorage07.blob.core.windows.net/container/index.html
+https://portfoliostorage07.z8.web.core.windows.net/
